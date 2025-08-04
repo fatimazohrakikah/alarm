@@ -7,7 +7,6 @@ a= random.randint(1,100)
 b=random.randint(1,100)
 
 pygame.mixer.init()
-pygame.init()
 sound = pygame.mixer.Sound("bird-flight-236928.mp3")
 
 def set_alarm():
@@ -34,4 +33,5 @@ while True :
      break
  
   
+
 
