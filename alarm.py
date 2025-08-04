@@ -31,7 +31,9 @@ while True :
         if a+b == c :
            break
      break
+pygame.quit()
  
   
+
 
 
